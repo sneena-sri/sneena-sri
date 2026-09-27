@@ -1,4 +1,4 @@
-# Hi, I'm Neena Sri 👋
+# Hi, I'm Neena Sri 
 
 ### Data Analyst | SQL | Python | Power BI | Excel
 
@@ -8,7 +8,7 @@ I enjoy working with data to identify trends, understand customer behavior, meas
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 **Languages & Querying**
 - SQL
@@ -33,7 +33,7 @@ I enjoy working with data to identify trends, understand customer behavior, meas
 
 ---
 
-## 📊 Featured Projects
+##  Featured Projects
 
 ### 🛒 E-commerce Sales & Customer Analytics
 
@@ -45,7 +45,7 @@ End-to-end analysis of e-commerce sales, customer behavior, product performance,
 
 ---
 
-### 📈 SaaS Subscription & Revenue Analytics
+###  SaaS Subscription & Revenue Analytics
 
 Analyzed subscription events, MRR, ARR, customer retention, churn, cohorts, plans, and revenue performance to understand SaaS business growth.
 
@@ -55,7 +55,7 @@ Analyzed subscription events, MRR, ARR, customer retention, churn, cohorts, plan
 
 ---
 
-### 💳 Bank Loan & Credit Risk Analytics
+###  Bank Loan & Credit Risk Analytics
 
 Analyzed loan portfolios, borrower segments, credit risk, defaults, loan performance, and financial trends using SQL, Excel, Python, and Power BI.
 
@@ -63,7 +63,7 @@ Analyzed loan portfolios, borrower segments, credit risk, defaults, loan perform
 
 ---
 
-### 🎧 SaaS Support Analytics
+###  SaaS Support Analytics
 
 Analyzed customer support tickets, SLA performance, resolution times, agent performance, and issue patterns to identify operational improvement opportunities.
 
@@ -71,7 +71,7 @@ Analyzed customer support tickets, SLA performance, resolution times, agent perf
 
 ---
 
-## 🎯 Analytics Interests
+##  Analytics Interests
 
 - Product Analytics
 - Customer Analytics
@@ -82,7 +82,7 @@ Analyzed customer support tickets, SLA performance, resolution times, agent perf
 
 ---
 
-## 📌 Currently Focused On
+##  Currently Focused On
 
 - Advanced SQL
 - Product Analytics
@@ -93,7 +93,7 @@ Analyzed customer support tickets, SLA performance, resolution times, agent perf
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 - GitHub: [sneena-sri](https://github.com/sneena-sri)
 - LinkedIn: [Neena Sri Shankar](https://www.linkedin.com/in/neena-sri-shankar-08313843b/)]
