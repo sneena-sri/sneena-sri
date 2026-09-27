@@ -96,4 +96,4 @@ Analyzed customer support tickets, SLA performance, resolution times, agent perf
 ##  Connect With Me
 
 - GitHub: [sneena-sri](https://github.com/sneena-sri)
-- LinkedIn: [Neena Sri Shankar](https://www.linkedin.com/in/neena-sri-shankar-08313843b/)]
+- LinkedIn: [Neena Sri Shankar](https://www.linkedin.com/in/neena-sri-shankar-08313843b/)
