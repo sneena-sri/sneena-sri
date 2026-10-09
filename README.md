@@ -49,7 +49,7 @@ End-to-end analysis of e-commerce sales, customer behavior, product performance,
 
 Analyzed subscription events, MRR, ARR, customer retention, churn, cohorts, plans, and revenue performance to understand SaaS business growth.
 
-**Tools:** Excel | SQL | Python | Power BI
+**Tools:** SQL | Python | Pandas | Power BI
 
 [View Project](https://github.com/sneena-sri/saas_revenue_retention)
 
@@ -59,15 +59,7 @@ Analyzed subscription events, MRR, ARR, customer retention, churn, cohorts, plan
 
 Analyzed loan portfolios, borrower segments, credit risk, defaults, loan performance, and financial trends using SQL, Excel, Python, and Power BI.
 
-**Tools:** SQL | Python | Excel | Power BI
-
----
-
-###  SaaS Support Analytics
-
-Analyzed customer support tickets, SLA performance, resolution times, agent performance, and issue patterns to identify operational improvement opportunities.
-
-**Tools:** SQL | Excel | Power BI
+**Tools:** SQL | Python | Pandas | Excel | Power BI
 
 ---
 
