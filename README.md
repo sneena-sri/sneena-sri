@@ -61,6 +61,8 @@ Analyzed loan portfolios, borrower segments, credit risk, defaults, loan perform
 
 **Tools:** SQL | Python | Pandas | Excel | Power BI
 
+[View Project](https://github.com/sneena-sri/bank-loan-credit-risk-analytics)
+
 ---
 
 ##  Analytics Interests
