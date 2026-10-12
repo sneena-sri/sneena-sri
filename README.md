@@ -45,16 +45,6 @@ End-to-end analysis of e-commerce sales, customer behavior, product performance,
 
 ---
 
-###  SaaS Subscription & Revenue Analytics
-
-Analyzed subscription events, MRR, ARR, customer retention, churn, cohorts, plans, and revenue performance to understand SaaS business growth.
-
-**Tools:** SQL | Python | Pandas | Power BI
-
-[View Project](https://github.com/sneena-sri/saas_revenue_retention)
-
----
-
 ###  Bank Loan & Credit Risk Analytics
 
 Analyzed loan portfolios, borrower segments, credit risk, defaults, loan performance, and financial trends using SQL, Excel, Python, and Power BI.
@@ -62,6 +52,16 @@ Analyzed loan portfolios, borrower segments, credit risk, defaults, loan perform
 **Tools:** SQL | Python | Pandas | Excel | Power BI
 
 [View Project](https://github.com/sneena-sri/bank-loan-credit-risk-analytics)
+
+---
+
+###  SaaS Subscription & Revenue Analytics
+
+Analyzed subscription events, MRR, ARR, customer retention, churn, cohorts, plans, and revenue performance to understand SaaS business growth.
+
+**Tools:** SQL | Python | Pandas | Power BI
+
+[View Project](https://github.com/sneena-sri/saas_revenue_retention)
 
 ---
 
