@@ -1,8 +1,8 @@
 # Hi, I'm Neena Sri
 
-### Data Analyst | SQL | Python | Power BI | Excel
+### Data Analyst | Power BI | SQL | Python | Excel
 
-I am a Data Analyst focused on transforming business data into actionable insights using SQL, Python, Power BI, and Excel.
+I am a Data Analyst focused on transforming business data into actionable insights using Power BI, SQL, Python(Pandas & Numpy), and Excel.
 
 I enjoy working with data to identify trends, understand customer behavior, measure business performance, and support data-driven decision-making.
 
@@ -10,6 +10,12 @@ I enjoy working with data to identify trends, understand customer behavior, meas
 
 ##  Technical Skills
 
+**Data Visualization & BI**
+- Power BI
+- Excel Dashboards
+- Data Visualization
+- KPI Reporting
+  
 **Languages & Querying**
 - SQL
 - Python
@@ -21,12 +27,6 @@ I enjoy working with data to identify trends, understand customer behavior, meas
 - Data Cleaning
 - Exploratory Data Analysis
 - Data Validation
-
-**Data Visualization & BI**
-- Power BI
-- Excel Dashboards
-- Data Visualization
-- KPI Reporting
 
 **Databases**
 - MySQL
