@@ -1,20 +1,30 @@
 # Hi, I'm Neena Sri
 
-### Data Analyst | Power BI | SQL | Python | Excel
+### Business Analyst | Data Analyst | Power BI | SQL | Python | Excel
 
-I am a Data Analyst focused on transforming business data into actionable insights using Power BI, SQL, Python(Pandas & Numpy), and Excel.
+I turn business data into actionable insights using Power BI, SQL, Python (Pandas & NumPy) and Excel.
 
-I enjoy working with data to identify trends, understand customer behavior, measure business performance, and support data-driven decision-making.
+With 2 years of experience at Cognizant working with clients and cross-functional teams, I analyze large datasets and build reports and dashboards.
+
+I enjoy identifying trends, understanding customer behavior and measuring business performance to support data-driven decisions.
+
 
 ---
 
 ##  Technical Skills
 
-**Data Visualization & BI**
+**Business Intelligence & Reporting**
 - Power BI
-- Excel Dashboards
+- Power Query
 - Data Visualization
 - KPI Reporting
+- Excel Dashboards
+
+**Business Analysis**
+- Requirements Gathering
+- Stakeholder Reporting
+- Root-Cause Analysis
+- Trend & Cohort Analysis
   
 **Languages & Querying**
 - SQL
@@ -65,29 +75,18 @@ Analyzed subscription events, MRR, ARR, customer retention, churn, cohorts, plan
 
 ---
 
-##  Analytics Interests
-
-- Product Analytics
-- Customer Analytics
-- Business Analytics
-- Revenue Analytics
-- Operational Analytics
-- Data Visualization
-
----
-
 ##  Currently Focused On
 
+- Power BI
 - Advanced SQL
 - Product Analytics
 - Business Problem Solving
-- Power BI
 - Python for Data Analysis
-- Data Analyst Interview Preparation
+- Hypothesis & A/B testing
 
 ---
 
 ##  Connect With Me
 
 - GitHub: [sneena-sri](https://github.com/sneena-sri)
-- LinkedIn: [Neena Sri Shankar](https://www.linkedin.com/in/neena-sri-shankar-08313843b/)
+- LinkedIn: [Neena Sri Shankar](https://www.linkedin.com/in/neenasri-shankar-08313843b/)
