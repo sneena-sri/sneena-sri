@@ -1,6 +1,6 @@
 # Hi, I'm Neena Sri
 
-### Business Analyst | Data Analyst | Power BI | SQL | Python | Excel
+### Data Analyst |  Business Analyst | Power BI | SQL | Python | Excel
 
 I turn business data into actionable insights using Power BI, SQL, Python (Pandas & NumPy) and Excel.
 
@@ -13,6 +13,18 @@ I enjoy identifying trends, understanding customer behavior and measuring busine
 
 ##  Technical Skills
 
+**Languages & Querying**
+- SQL
+- Python
+
+**Data Analysis**
+- Pandas
+- NumPy
+- Excel
+- Data Cleaning
+- Exploratory Data Analysis
+- Data Validation
+  
 **Business Intelligence & Reporting**
 - Power BI
 - Power Query
@@ -25,18 +37,6 @@ I enjoy identifying trends, understanding customer behavior and measuring busine
 - Stakeholder Reporting
 - Root-Cause Analysis
 - Trend & Cohort Analysis
-  
-**Languages & Querying**
-- SQL
-- Python
-
-**Data Analysis**
-- Pandas
-- NumPy
-- Excel
-- Data Cleaning
-- Exploratory Data Analysis
-- Data Validation
 
 **Databases**
 - MySQL
@@ -77,8 +77,8 @@ Analyzed subscription events, MRR, ARR, customer retention, churn, cohorts, plan
 
 ##  Currently Focused On
 
-- Power BI
 - Advanced SQL
+- Power BI
 - Product Analytics
 - Business Problem Solving
 - Python for Data Analysis
